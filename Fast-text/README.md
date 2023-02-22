@@ -49,4 +49,4 @@ VD: The quick _ fox jump -> The quick brown fox jump.
 Từ hai mô hình CBOW và Skip-gram ta sẽ xây dựng ra được một mạng neural-network đại diện cho các từ.
 ![Word2vec](../data/word2vec4.png#center  "Word2vec")
 
-Soure code Colab: https://colab.research.google.com/drive/1goGHVBwHv2HVxHH1ARnr-dzoxuXxG0mK?usp=sharing
+Code Colab: https://colab.research.google.com/drive/1goGHVBwHv2HVxHH1ARnr-dzoxuXxG0mK?usp=sharing

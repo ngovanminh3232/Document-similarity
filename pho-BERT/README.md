@@ -45,4 +45,4 @@ Theo đó:
 
 - Cuối cùng ta thu được véc tơ nhúng của mỗi một từ tại vị trí MASK sẽ là embedding véc tơ giảm chiều của véc tơ Oi sau khi đi qua fully connected layer như mô tả trên hình vẽ bên phải. 
 
-Source code Colab: https://colab.research.google.com/drive/1_7iHE2PtWFsovh1TlvizfgyJGLMsBkxv?usp=sharing
+Code Colab: https://colab.research.google.com/drive/1_7iHE2PtWFsovh1TlvizfgyJGLMsBkxv?usp=sharing

@@ -28,4 +28,4 @@ Trong trường hợp này giải thuật Jaccard tỏ ra không hiệu quả v�
 
 <b>Đây là một lỗ hổng rất lớn và cố hữu khi dữ liệu của chúng ta tăng lên, một số các từ thông dụng sẽ xuất hiện nhiều lên mặc dù chủ đề của chúng là khác nhau.</b>
 
-Soure code Colab: https://colab.research.google.com/drive/1fV_el1dff_iyW4lv81x2jO1Ta4INvpO_?usp=sharing
+Code Colab: https://colab.research.google.com/drive/1fV_el1dff_iyW4lv81x2jO1Ta4INvpO_?usp=sharing
