@@ -13,3 +13,4 @@ Vì vậy cần giảm mức độ quan trọng của những từ bằng cách 
 Từ phần giải thích về TF, IDF ta có công thức hoàn chỉnh về TF-IDF:
 > TF-IDF = TF(t, d) x IDF(t, D)
 
+Soure code Colab: https://colab.research.google.com/drive/1Mb6dRe4BhxaFldW8YN1feJSxOMhoJD9h?usp=sharing

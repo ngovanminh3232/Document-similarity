@@ -44,3 +44,5 @@ Theo đó:
 - Để tính toán phân phối xác suất cho từ output, chúng ta thêm một Fully connect layer ngay sau Transformer Encoder. Hàm softmax có tác dụng tính toán phân phối xác suất. Số lượng units của fully connected layer phải bằng với kích thước của từ điển.  
 
 - Cuối cùng ta thu được véc tơ nhúng của mỗi một từ tại vị trí MASK sẽ là embedding véc tơ giảm chiều của véc tơ Oi sau khi đi qua fully connected layer như mô tả trên hình vẽ bên phải. 
+
+Source code Colab: https://colab.research.google.com/drive/1_7iHE2PtWFsovh1TlvizfgyJGLMsBkxv?usp=sharing

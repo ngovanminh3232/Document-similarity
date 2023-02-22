@@ -27,3 +27,5 @@ Câu 2: Obama speaks in Illinois.
 Trong trường hợp này giải thuật Jaccard tỏ ra không hiệu quả và trả về độ tương đồng là 0. Đây là một con số khó chấp nhận được mặc dù hai câu trên là tương tự về mặt ngữ nghĩa.Ở đây cho thấy giải thuật Jaccard không thể nắm bắt ngữ nghĩa của các câu của các từ vựng ở trong câu mà chỉ đơn thuần tính số lần xuất hiện của các từ.
 
 <b>Đây là một lỗ hổng rất lớn và cố hữu khi dữ liệu của chúng ta tăng lên, một số các từ thông dụng sẽ xuất hiện nhiều lên mặc dù chủ đề của chúng là khác nhau.</b>
+
+Soure code Colab: https://colab.research.google.com/drive/1fV_el1dff_iyW4lv81x2jO1Ta4INvpO_?usp=sharing
